@@ -1,4 +1,3 @@
-package blankUI;
 import javax.swing.JFrame;
 
 public class blankFrame extends JFrame implements Runnable{
